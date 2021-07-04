@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^([^\.]+)\.jpg$ https://relaxed-jackson-2b602b.netlify.app/image.php [NC,L]
